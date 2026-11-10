@@ -1,4 +1,4 @@
-﻿# AI Document Intelligence
+﻿# AI Document Intelligence — Full-Stack RAG Application
 
 A local, single-user PDF RAG application with a React/TypeScript interface, FastAPI backend,
 Hugging Face embeddings, FAISS retrieval and Ollama generation. Answers expose original pages,
